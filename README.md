@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3C91F7&center=true&vCenter=true&random=false&width=435&lines=AI%2FFinTech+Explorer;CV+Quant+Enthusiast" alt="Typing SVG" /></a>
+</div>
 
-<!--
-**StevenChen16/StevenChen16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Grade 11 student at Bur Oak Secondary School, fascinated by the intersection of artificial intelligence and financial technology. My primary focus lies in Computer Vision and Quantitative Finance, with additional interests in Natural Language Processing.
 
-Here are some ideas to get you started:
+## 🎯 Areas of Interest
+- 🔭 Computer Vision & Deep Learning
+- 📊 FinTech & Quantitative Analysis
+- 🔍 Natural Language Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stevenchen16&show_icons=true&theme=dracula" />
+</div>
