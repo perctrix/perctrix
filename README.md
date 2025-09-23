@@ -12,5 +12,5 @@ I'm a Grade 11 student at Bur Oak Secondary School, fascinated by the intersecti
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stevenchen16&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=perctrix&show_icons=true&theme=dracula" />
 </div>
