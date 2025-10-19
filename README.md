@@ -3,7 +3,7 @@
 </div>
 
 ## About Me
-I'm a Grade 11 student at Bur Oak Secondary School, fascinated by the intersection of artificial intelligence and financial technology. My primary focus lies in Computer Vision and Quantitative Finance, with additional interests in Natural Language Processing.
+I'm a Grade 12 student at Markham, fascinated by the intersection of artificial intelligence and financial technology. My primary focus lies in Computer Vision and Quantitative Finance, with additional interests in Natural Language Processing.
 
 ## 🎯 Areas of Interest
 - 🔭 Computer Vision & Deep Learning
